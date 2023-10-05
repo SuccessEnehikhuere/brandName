@@ -1,0 +1,25 @@
+<svg width="36" height="39" viewBox="0 0 36 39" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="36" height="39" fill="#E5E5E5"/>
+<g id="Homepage - V2" clip-path="url(#clip0_48_376)">
+<rect width="1400" height="7054" transform="translate(-1146 -3644)" fill="white"/>
+<g id="Group 236">
+<rect id="Rectangle 1271" x="-1146" y="-196" width="1400" height="801" fill="#0A2640"/>
+<g id="Group 235">
+<g id="Group 234">
+<g id="Group 233">
+<circle id="Ellipse 5" cx="18" cy="19" r="36" transform="rotate(-180 18 19)" fill="white"/>
+<g id="arrow-right">
+<path id="Vector" d="M28.5 18L7.5 18" stroke="#0A2640" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M18 28.5L7.5 18L18 7.5" stroke="#0A2640" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_48_376">
+<rect width="1400" height="7054" fill="white" transform="translate(-1146 -3644)"/>
+</clipPath>
+</defs>
+</svg>
